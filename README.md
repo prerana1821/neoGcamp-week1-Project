@@ -9,4 +9,4 @@
 4. In MCQ based questions you have to type the Serial Number / Index Value.
 
 
-    [Here's a link](https://repl.it/@PreranaNawar/neoGcamp-week1Project#index.js "Quiz App Link")
+    [Here's a link](https://repl.it/@PreranaNawar/neoGcamp-week1Project?embed=1output=1#index.js "Quiz App Link")
